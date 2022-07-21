@@ -1,0 +1,13 @@
+HTML - IMAGE
+
+definisi
+--------
+gambar dapat kita tambahkan di HTML dengan menggunakan tag <img>. tag ini memiliki atribut wajib, yakni src
+
+atribut pada img
+----------------
+- src : untuk menentukan lokasi penyimpanan gambar yang ingin ditampilkan
+- alt : untuk teks alternatif untuk gambar
+- width : untuk menentukan lebar gambar
+- height : untuk menentukan tinggi gambar
+- title : untuk memberikan judul pada gambar

@@ -1,0 +1,33 @@
+HTML - DEFINISI HTML
+
+definisi
+--------
+- html adalah singkatan dari hypertext markup language
+- html adalah bahasa markup yang digunakan untuk menentukan konten dan struktur halaman web
+
+elemen
+------
+- elemen adalah kumpulan kode yang diawali dengan tag pembuka hingga diakhiri dengan tag penutup, dimana tag penutup ini ditandai dengan garis miring sebelum nama tag
+- ada beberapa elemen yang tidak memerlukan tag penutup seperti <img>, <br>, <hr>, <input>, dan lain-lain
+
+contoh elemen
+-------------
+<p>elemen html</p>
+<div>ini adalah elemen html</div>
+
+tag
+---
+- tag adalah sebuah penanda pada html yang digunakan untuk memberikan perintah tertentu pada halaman web
+- nama tag boleh ditulis dengan huruf kecil, huruf kapital, ataupun kombinasi antara huruf kecil dan huruf kapital
+
+contoh tag
+----------
+<p>text</p>
+
+atribut
+-------
+atribut digunakan untuk memberikan informasi tambahan terhadap elemen html
+
+contoh atribut
+--------------
+<a href="Github.com">Github Website</a>

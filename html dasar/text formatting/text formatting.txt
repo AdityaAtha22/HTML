@@ -1,0 +1,26 @@
+HTML - TEXT FORMATTING
+
+definisi
+--------
+text formatting adalah elemen yang mendefinisikan teks dengan arti khusus
+
+macam-macam text formatting
+---------------------------
+- <b> : teks tebal
+- <strong> : teks penting
+- <i> : teks miring
+- <em> : teks yang ditekankan
+- <mark> : teks yang diberi tanda(seperti efek stabilo)
+- <small> : teks kecil
+- <del> : teks yang diberi coret
+- <ins> : teks yang diberi garis bawah
+- <sub> : teks subskrip
+- <sup> : teks superskrip
+
+contoh
+------
+<b>ini adalah teks bold</b>
+<strong>ini merupakan teks penting!</strong>
+
+<i>teks italic/miring</i>
+<em>ini teks yang ditekankan</em>

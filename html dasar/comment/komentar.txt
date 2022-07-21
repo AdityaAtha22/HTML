@@ -1,0 +1,15 @@
+HTML - KOMENTAR
+
+definisi
+--------
+komentar adalah sebuah tag/element pada html yang tidak dieksekusi oleh program
+
+fungsi komentar
+---------------
+1. memberikan keterangan/catatan pada baris html
+2. menonaktifkan baris kode html
+3. menjelaskan alur program yang dibuat
+
+contoh komentar
+---------------
+<!-- ini adalah cara penulisan komentar di html -->

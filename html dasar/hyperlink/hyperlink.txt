@@ -1,0 +1,48 @@
+HTML - HYPERLINK
+
+definisi
+--------
+- hyperlink atau link digunakan untuk menghubungkan suatu halaman website ke halaman yang lain
+
+jenis-jenis link
+----------------
+1. internal link
+2. eksternal link
+
+internal link
+-------------
+internal link merupakan jenis link yang mengarahkan kita ke halaman yang masih dalam domain
+
+contoh internal link
+--------------------
+<a href="index.html">Beranda</a>
+
+eksternal link
+--------------
+eksternal link merupakan jenis link yang mengarahkan kita ke halaman yang dimiliki oleh domain atau website lain
+
+contoh eksternal link
+---------------------
+<a href="https://google.com/">Google</a>
+
+atribut link
+------------
+- target
+- title
+
+target
+------
+atribut target digunakan untuk menentukan target dimana link akan dibuka
+
+nilai pada atribut target
+-------------------------
+- _blank : membuka link pada tab baru
+- _self : membuka link pada halaman itu sendiri(default)
+
+title
+-----
+atribut title digunakan untuk membuat tooltips. tooltips merupakan informasi tambahan yang akan ditampilkan saat cursor mouse menyentuh link
+
+contoh atribut title
+--------------------
+<a href="kontak.html" title="halaman kontak website">Kontak</a>

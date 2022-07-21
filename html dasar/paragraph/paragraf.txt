@@ -1,0 +1,11 @@
+HTML - PARAGRAF
+
+definisi
+--------
+- paragraf adalah suatu kalimat pada baris baru yang biasanya berupa blok teks
+- tag <p> digunakan untuk mendefinisikan sebuah paragraf
+
+contoh paragraf
+---------------
+<p>ini paragraf pertama</p>
+<p>ini paragraf kedua</p>

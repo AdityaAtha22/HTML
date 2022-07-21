@@ -1,0 +1,26 @@
+HTML - FORM
+
+definisi
+--------
+form digunakan untuk mengelola data dari input yang dilakukan oleh user
+
+elemen pada form
+----------------
+- input : digunakan untuk mengisi data
+- textarea : digunakan untuk mengisi pesan atau komentar
+- select : digunakan untuk membuat dropdown atau combobox
+- button : digunakan untuk mengirim data atau lainnya
+- label : berupa keterangan pada elemen input
+
+atribut pada input
+------------------
+- text
+- password
+- radio
+- checkbox
+
+atribut pada button
+-------------------
+- submit
+- reset
+- button

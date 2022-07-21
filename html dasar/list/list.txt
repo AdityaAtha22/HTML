@@ -1,0 +1,67 @@
+HTML - LIST
+
+definisi
+--------
+list adalah elemen html yang digunakan untuk menyajikan data berupa list atau daftar
+
+macam-macam list
+----------------
+ada tiga macam list dalam html dan masing-masing memiliki tujuan dan makna tertentu
+
+- unordered list
+- ordered list
+- description list
+
+unordered list
+--------------
+unordered list adalah daftar item yang tidak memiliki urutan khusus. unordered list dibuat dengan tag <ul> dan untuk item-nya dibuat menggunakan tag <li>
+
+atribut ul
+----------
+- type disc : untuk simbol bullet(default)
+- type square : untuk simbol persegi
+- type none : untuk menghilangkan simbol atau tanpa simbol
+- type circle : untuk simbol lingkaran
+
+contoh ul
+---------
+<ul type="square">
+  <li>kucing</li>
+  <li>anjing</li>
+  <li>sapi</li>
+</ul>
+
+ordered list
+------------
+ordered list adalah daftar item yang memiliki urutan tertentu. ordered list dibuat dengan tag <ol> dan untuk item-nya dibuat menggunakan tag <li>
+
+atribut ol
+----------
+- type a : untuk huruf alfabet a, b, c dan seterusnya
+- type A : untuk huruf alfabet A, B, C dan seterusnya
+- type i : untuk angka romawi i, ii, iii dan seterusnya
+- type I : untuk angka romawi I, II, III dan seterusnya
+
+contoh ol
+---------
+<ol type="I">
+  <li>Kucing</li>
+  <li>Anjing</li>
+  <li>Sapi</li>
+</ol>
+
+description list
+----------------
+- description list adalah daftar item yang berisi deskripsi dari sesuatu
+- description list dibuat dengan tag <dl>, untuk membuat kata yang akan dideskripsikan menggunakan <dt>, dan untuk mendeskiprsikan kata yang sudah dibuat tadi, kita dapat menggunakan tag <dd>
+
+contoh dl
+---------
+<dl>
+  <dt>kucing</dt>
+  <dd>kucing adalah hewan berbulu yang menggemaskan</dd>
+  <dt>anjing</dt>
+  <dd>anjing adalah hewan peliharaan yang setia</dd>
+  <dt>sapi</dt>
+  <dd>sapi adalah hewan ternak yang dapat diperah</dd>
+</dl>
